@@ -1,4 +1,5 @@
 # MyNotes Application
+Authors: Bo Kyung Kim, Xing Huang, Boudribila Mohamed Amine / John Abbott College FSD-10
 
 ## Introduction
 
@@ -37,20 +38,20 @@ This application is built using the following technologies and frameworks:
 
 ## Screenshot - Login
 
-<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Login.JPG" width="350"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Login.JPG" width="450"/>
 
 ## Screenshot - Home
 
-<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Home.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Home.JPG" width="600"/>
 
 ## Screenshot - Create Notes
 
-<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Create.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Create.JPG" width="600"/>
 
 ## Screenshot - Note Detail
 
-<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Detail.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Detail.JPG" width="600"/>
 
 ## Screenshot - Search Result
 
-<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Search.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Search.JPG" width="600"/>
