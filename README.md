@@ -32,19 +32,25 @@ This application is built using the following technologies and frameworks:
 - Delete: Users can delete any of their notes.
 - Each note has a timestamp indicating the creation or last update time.
 
+3. Search Function
+- Users can search their existing notes by the keywords.
+
+## Screenshot - Login
+
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Login.JPG" width="350"/>
+
 ## Screenshot - Home
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Home.jpg" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Home.JPG" width="500"/>
 
-## Screenshot - Orders/Order Wizard
+## Screenshot - Create Notes
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Orders.jpg" width="500"/>
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Order Wizard.jpg" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Create.JPG" width="500"/>
 
-## Screenshot - Report
+## Screenshot - Note Detail
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Reports.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Detail.JPG" width="500"/>
 
-## Screenshot - Invoice
+## Screenshot - Search Result
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="350"/>
+<img src="https://github.com/Bokyung022/2024_MyNotes_ASP.NET/blob/main/Notesapp/assets/Search.JPG" width="500"/>
